@@ -4,7 +4,7 @@ i=0
 #Mensaje de bienvenida
 print("Hola! Vamos a imprimir los primeros 10 numeros naturales impares.")
 #Creamos una condicional for para hacer el ejercicio
-for i in range (0,10):
+for i in range (0,20):
     if i%2 != 0:
         print(i)
 #Desarrollado por Pedro Gómez / ID:000396221
