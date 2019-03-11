@@ -24,4 +24,4 @@ else:
     else:
         if prom > 4.5:
             print("Felicitaciones! Eres excelencia académica.")
-#Desarrollado por Pedro Gómez / ID:000396221
+#Desarrollado por Pedro Felipe Gómez / ID:000396221
