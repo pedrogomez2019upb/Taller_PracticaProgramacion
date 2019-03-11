@@ -1,4 +1,5 @@
 #Calcular el promedio 
+# -*- coding: utf-8 -*-
 #Hay que recibir las notas para empezar a sacar los promedios
 n1=float(input("Bienvenido ! Vamos a sacar el promedio. Por favor ingresa el primer valor : "))
 n2=float(input("Ingresa el segundo valor: "))
