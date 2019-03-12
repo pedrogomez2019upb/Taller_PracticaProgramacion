@@ -3,4 +3,3 @@
 n=int(input("Bienvenido! Vamos a sacar el promedio de números pares e impares. Por favor ingrese el número a analizar: "))
 #Ahora ponemos for para los números a analizar
 for i in range (0,n):
-    
